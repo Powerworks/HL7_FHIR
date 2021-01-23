@@ -1,0 +1,9 @@
+HL7 v3 was intended to be the next generation of HL7's messaging standards. 
+It introduced a common Reference Information Model (RIM), data type model and set of vocabulary as well as a formal standards development methodology.
+
+https://www.hl7.org/fhir/comparison-v3.html
+
+v3 was a failure to attract mindshare - because it was very complicated and intense.
+never managed to take off as a useful standard.
+
+building user centric apps was difficult in v2 and v3
