@@ -1,0 +1,10 @@
+HL7_v2 is the most widely plemented healthcare standard in the world. 95% of US healthcare organizations use it and more than 35 countries have V2 implementations.
+This is especially true in the exchange of orders, results, admission/discharge/transfer (ADT) and public health communication.
+
+v2 is very dense
+
+• Discuss the structure of the standard
+• Describe common HL7 data types and how they are used
+• Discuss the HL7 v2 Vocabulary Model and code tables
+• Describe acknowledgement protocol options and configurations
+• Create sample Patient Administration messages
