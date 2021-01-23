@@ -32,6 +32,9 @@ FHIR has five components
  Carin Alliance impl - consumer access to their health data in US
  Gravity project impl - examines inequalities in our healthcare system. 
  
+ HAPI FHIR is licensed under the Apache Software lic 2.0
+ 
+ 
  
  For every org that implements FHIR standard, even if the data models are not the same - there is a similar base understanding and protocol.
  
