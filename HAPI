@@ -1,0 +1,16 @@
+Hapi is an open-source and rich Node.js framework created and actively maintained by Eran Hammer. Hapi is a rich framework for building applications and services. 
+It enables developers to focus on writing reusable application logic instead of spending time building infrastructure.
+
+Hapi is a simple to use configuration-centric framework that provides an amazing set of built-in functionality, 
+which allows developers build web applications and services quickly and effectively with JavaScript. 
+Check out some of the features below that makes it a worthy framework to consider for your next project.
+
+Core features 
+ - Authentication and Authorization: Hapi ships with built-in authentication and authorization schemes and strategies. Anonymous, basic-auth, cookie-based and token-based authentication schemes are provided in the Node.js framework.
+ - Caching: Hapi provides powerful client and server side caching via catbox and makes using cache very convenient.
+ - Routing: Hapi provides a router that allows you to express how your web application or API routes should look.
+ - Validation: With Joi, object schema validation is a breeze in Hapi.
+ - Cookies: Hapi provides several configuration options for making dealing with cookies flexible, safe and simple.
+ - Logging: Logging is key when building quality software. Hapi ships with built-in logging methods.
+ - Simplified Error Handling: Boom provides a set of utilities for returning HTTP-friendly error objects.
+ - Process Monitoring: Good is a Hapi plugin to monitor and report on a variety of hapi server events as well as ops information from the host machine. It listens for events emitted by hapi server instances and pushes standardized events to a collection of streams.
