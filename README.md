@@ -41,6 +41,7 @@ FHIR has five components
  
  
  For every org that implements FHIR standard, even if the data models are not the same - there is a similar base understanding and protocol.
- 
+
+http://hapi.fhir.org/baseR4/Patient/example
  
  
