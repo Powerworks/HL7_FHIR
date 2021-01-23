@@ -1,1 +1,16 @@
 
+Model Concepts 
+
+ 0 we often draw values from a set of allwoable codes (loinc, icd)
+ 
+ codes are represented in FHIR 
+ - system is a uri describing the code eg loinc codes
+ - the code is the actual code "718-7"
+ - the display is a human readable display name "Haemoglobin mass/volume"
+
+
+Extensions
+ - key a url
+ - value is a 
+ 
+ 
